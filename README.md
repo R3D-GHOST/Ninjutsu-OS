@@ -12,7 +12,7 @@ Download torrent for windows
 
 Torrent Link: https://www.utorrent.com/
 
-Torrent Link ISO: 
+Torrent Link ISO: https://www.mediafire.com/file/6toljj0d5gcrii5/Ninjutsu_v3.iso.torrent/file
 ____________________
 
 
