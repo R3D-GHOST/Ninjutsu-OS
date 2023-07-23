@@ -1,20 +1,18 @@
-____________________
+
 Ninjutsu os v3 2020 
-____________________
-____________________
+
+
 Boot requirements
---------------------
+
 USB: 32gb 
 
 Boot tool: https://rufus.ie/
-____________________
+
 Download torrent for windows
---------------------
+
 Torrent Link: https://www.utorrent.com/
 
 Torrent Link ISO: https://www.mediafire.com/file/6toljj0d5gcrii5/Ninjutsu_v3.iso.torrent/file
-____________________
-
 
 O.S: Windows 10 Mod
 
